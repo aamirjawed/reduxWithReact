@@ -2,3 +2,4 @@ export { incrementCounter, decerementCounter, incrementCounterBy2 } from './coun
 
 export { buyCake} from './cake/cakeActions'
 export {buyIceCream} from './iceCream/iceCreamActions'
+export {fetchUsersRequest, fetchUsersFailure, fetchUsersSuccess, fetchUsers} from './user/userActions'
